@@ -11,7 +11,7 @@
 <body>
     <main id="content">
         <h2 id="mensaje_bienvenida"></h2>
-        <p class="hero-text">En <span class="highlight">Consultoria Diamante</span>, nos especializamos en ofrecer soluciones innovadoras para el desarrollo de software. Nuestra misión es ayudarte a <strong>crecer</strong> y <strong>evolucionar</strong> en un mundo digital.</p>
+        <p class="hero-text">En <span class="highlight">Consultora Diamante</span>, nos especializamos en ofrecer soluciones innovadoras para el desarrollo de software. Nuestra misión es ayudarte a <strong>crecer</strong> y <strong>evolucionar</strong> en un mundo digital.</p>
         <img class="logo" src="" alt="LogoEmpresa" />
     </main>
 
