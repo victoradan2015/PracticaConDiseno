@@ -1,0 +1,84 @@
+{
+    "divisas": [
+        {
+            "codigo": "USD",
+            "nombre": "D\u00f3lar Americano",
+            "valor": "$19.85"
+        },
+        {
+            "codigo": "GBP",
+            "nombre": "Libra Esterlina",
+            "valor": "$23.75"
+        },
+        {
+            "codigo": "MX",
+            "nombre": "Peso Mexicano",
+            "valor": "$1.00"
+        },
+        {
+            "codigo": "EUR",
+            "nombre": "Euro",
+            "valor": "$21.50"
+        },
+        {
+            "codigo": "JPY",
+            "nombre": "Yen Japon\u00e9s",
+            "valor": "$0.15"
+        },
+        {
+            "codigo": "CAD",
+            "nombre": "D\u00f3lar Canadiense",
+            "valor": "$15.00"
+        },
+        {
+            "codigo": "AUD",
+            "nombre": "D\u00f3lar Australiano",
+            "valor": "$14.30"
+        },
+        {
+            "codigo": "CHF",
+            "nombre": "Franco Suizo",
+            "valor": "$22.10"
+        },
+        {
+            "codigo": "CNY",
+            "nombre": "Yuan Chino",
+            "valor": "$3.00"
+        },
+        {
+            "codigo": "INR",
+            "nombre": "Rupia India",
+            "valor": "$0.25"
+        },
+        {
+            "codigo": "BRL",
+            "nombre": "Real Brasile\u00f1o",
+            "valor": "$3.75"
+        },
+        {
+            "codigo": "ZAR",
+            "nombre": "Rand Sudafricano",
+            "valor": "$1.30"
+        },
+        {
+            "codigo": "KRW",
+            "nombre": "Won Surcoreano",
+            "valor": "$0.017"
+        },
+        {
+            "codigo": "EUA",
+            "nombre": "DOLAR",
+            "valor": "$0.36"
+        },
+        {
+            "codigo": "RWE",
+            "nombre": "WUPIAS",
+            "valor": "$0.99"
+        },
+        {
+            "codigo": "RAR",
+            "nombre": "RARRARAR",
+            "valor": "$0.99888"
+        }
+    ]
+}
